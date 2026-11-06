@@ -1,3 +1,8 @@
+> **foxnaim** · Надёжная работа с PostgreSQL LISTEN и NOTIFY для Node.js
+>
+> Готовая основа под клиентский проект. Стек: TypeScript.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 <h1 align="center">pg-listen</h1>
 <h3 align="center">Postgres LISTEN & NOTIFY that works</h3>
 
